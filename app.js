@@ -63,7 +63,7 @@ var demo = new Vue({
             })
 
             // Return an array with the filtered data.
-            return articles_array;;
+            return articles_array;
         }
     },
 	// Functions we will be using.
